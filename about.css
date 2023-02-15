@@ -1,0 +1,44 @@
+.about {
+    margin-top: 60px;
+}
+
+.about__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about__description {
+    margin-left: 111px;
+}
+
+.about__title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.1em;
+    color: #0B5563;
+}
+
+.about__sub-title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 33px;
+    text-transform: uppercase;
+    color: #0B5563;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.about__text {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 150%;
+    color: #101010;
+}

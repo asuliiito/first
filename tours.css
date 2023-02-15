@@ -1,0 +1,39 @@
+.tours {
+    margin-top: 60px;
+    margin-bottom: 187px;
+}
+
+.tours__title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.1em;
+    color: #0B5563;
+}
+
+.tours__sub-title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #0B5563;
+    margin-top: 30px;
+    margin-bottom: 150px;
+}
+
+.tours__item {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 145%;
+    color: #101010;
+}
+
+.tours__list {
+    display: flex;
+    gap: 66px;
+}
